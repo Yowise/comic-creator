@@ -1,0 +1,6 @@
+{
+  "name": "Comic Creator",
+  "description": "An application that takes a user's story prompt and generates a 3-page, full-color comic book. It uses Gemini for script writing and safety checks, and Imagen for illustrations.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

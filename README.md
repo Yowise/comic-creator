@@ -1,3 +1,10 @@
+
+# Comic Creator
+
+**Comic Creator** is an AI-powered web application that lets users generate a full 4-panel comic from a single story idea. Using cutting-edge models from Google's Gemini and Imagen APIs, the app writes a comic script and visualizes each panel in vibrant detail.
+
+
+
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
@@ -14,8 +21,5 @@ This contains everything you need to run your app locally.
    `npm run dev`
 
 
-# Comic Creator
-
-**Comic Creator** is an AI-powered web application that lets users generate a full 4-panel comic from a single story idea. Using cutting-edge models from Google's Gemini and Imagen APIs, the app writes a comic script and visualizes each panel in vibrant detail.
 
 
